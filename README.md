@@ -22,6 +22,7 @@ Source code lives in each extension's own repository; this repo only maintains t
 | --- | --- | --- | --- |
 | [pi-speed](https://github.com/Wade11s/pi-speed) | 🚀 Actively improving | Status-bar metrics | Shows time to first token, generation speed, and cumulative session time in pi's native UI. |
 | [pi-x-search](https://github.com/Wade11s/pi-x-search) | 🚀 Actively improving | X search | Lets the agent research public X/Twitter content through the official xAI API. |
+| [pi-rex-picker](https://github.com/Wade11s/pi-rex-picker) | 🚀 Actively improving | File picker | Routes pi's `@` picker to Rex's Insert Path so the chosen file or folder lands in the prompt. |
 | [pi-explain](https://github.com/Wade11s/pi-explain) | 🚧 In development | Content generation | Turns an explanation into clear prose, a static diagram, or an interactive web page. |
 | [pi-stepfun](https://github.com/Wade11s/pi-stepfun) | 🔧 Maintained | Model provider | Brings the StepFun (阶跃星辰) Step Plan subscription models into pi. |
 | [pi-radeon-cloud-cn](https://github.com/Wade11s/pi-radeon-cloud-cn) | 🔧 Maintained | Model provider | Adds an AMD Radeon Cloud CN model provider to pi. |

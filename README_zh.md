@@ -22,6 +22,7 @@
 | --- | --- | --- | --- |
 | [pi-speed](https://github.com/Wade11s/pi-speed) | 🚀 持续优化 | 状态栏指标 | 在 pi 原生界面中实时显示首字延迟、生成速度与会话累计时长。 |
 | [pi-x-search](https://github.com/Wade11s/pi-x-search) | 🚀 持续优化 | X 搜索 | 让 Agent 通过官方 xAI 接口检索公开 X/Twitter 内容。 |
+| [pi-rex-picker](https://github.com/Wade11s/pi-rex-picker) | 🚀 持续优化 | 文件选择器 | 让 pi 的 `@` 选择器接入 Rex 的 Insert Path，把选中的文件或目录路径写入提示词。 |
 | [pi-explain](https://github.com/Wade11s/pi-explain) | 🚧 开发中 | 内容生成 | 把一次解释输出为清晰文字、静态图解或可交互网页。 |
 | [pi-stepfun](https://github.com/Wade11s/pi-stepfun) | 🔧 维护 | 模型 Provider | 在 pi 中接入阶跃星辰 Step Plan 订阅套餐模型。 |
 | [pi-radeon-cloud-cn](https://github.com/Wade11s/pi-radeon-cloud-cn) | 🔧 维护 | 模型 Provider | 为 pi 添加 AMD Radeon Cloud CN 模型服务。 |
